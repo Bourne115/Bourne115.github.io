@@ -1,0 +1,15 @@
+{
+    "name": "Qile`s Blog",
+    "version": {
+        "name": "1.0",
+        "code": "10"
+    },
+    "launch_path": "/index.html",
+    "description": "其乐的个人学习博客",
+    "screenOrientation": [
+        "portrait-primary",
+        "portrait-secondary",
+        "landscape-primary",
+        "landscape-secondary"
+    ]
+}
